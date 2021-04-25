@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Moscow",
+        "url": "https://pass.rw.by/ru/route/?from=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&from_exp=&from_esr=&to=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&to_exp=&to_esr=&front_date=8+%D0%BC%D0%B0%D1%8F.+2021&date=2021-05-08",
+        "seats": [],
+        "train": "722Б",
+        "message": "Изменилось кол-во билетов на дешманский поезд в МОСКВУ (8 число). Текущее кол-во билетов"
+    },
+    {
+        "name": "Minsk",
+        "url": "https://pass.rw.by/ru/route/?path=ru%2Froute%2F&from=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&from_exp=2000000&from_esr=0&to=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&to_exp=2100000&to_esr=140210&front_date=10+%D0%BC%D0%B0%D1%8F.+2021&date=2021-05-10",
+        "seats": [2],
+        "train": "721М",
+        "message": "Изменилось кол-во билетов на ОБРАТНЫЙ дешманский поезд. Текущее кол-во билетов"
+    },
+    {
+        "name": "Moscow",
+        "url": "https://pass.rw.by/ru/route/?from=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&from_exp=&from_esr=&to=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&to_exp=&to_esr=&front_date=7+%D0%BC%D0%B0%D1%8F.+2021&date=2021-05-07",
+        "seats": [],
+        "train": "004Б",
+        "message": "Изменилось кол-во билетов на ОБРАТНЫЙ НЕдешманский поезд (7 число). Текущее кол-во билетов"
+    }
+]
