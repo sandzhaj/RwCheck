@@ -1,0 +1,23 @@
+[
+    {
+        "direction": "Минск-Москва",
+        "number": "722Б",
+        "seats": [],
+        "seats_type": "Любой",
+        "url": "https://pass.rw.by/ru/route/?from=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&from_exp=&from_esr=&to=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&to_exp=&to_esr=&front_date=8+%D0%BC%D0%B0%D1%8F.+2021&date=2021-05-08"
+    },
+    {
+        "direction": "Минск-Москва",
+        "number": "004Б",
+        "seats": [],
+        "seats_type": "Любой",
+        "url": "https://pass.rw.by/ru/route/?from=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&from_exp=&from_esr=&to=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&to_exp=&to_esr=&front_date=7+%D0%BC%D0%B0%D1%8F.+2021&date=2021-05-07"
+    },
+    {
+        "direction": "Минск-Москва",
+        "number": "002Б",
+        "seats": [],
+        "seats_type": "Плацкартный",
+        "url": "https://pass.rw.by/ru/route/?from=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&from_exp=&from_esr=&to=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&to_exp=&to_esr=&front_date=7+%D0%BC%D0%B0%D1%8F.+2021&date=2021-05-07"
+    }
+]
